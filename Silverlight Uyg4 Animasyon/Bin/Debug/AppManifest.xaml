@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Silverlight Uyg4 Animasyon" EntryPointType="Silverlight_Uyg4_Animasyon.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Silverlight Uyg4 Animasyon" Source="Silverlight Uyg4 Animasyon.dll" />
+  </Deployment.Parts>
+</Deployment>

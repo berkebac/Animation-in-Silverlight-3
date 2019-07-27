@@ -1,0 +1,6 @@
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg4 Animasyon\Silverlight Uyg4 Animasyon.Web\bin\Silverlight Uyg4 Animasyon.Web.dll.config
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg4 Animasyon\Silverlight Uyg4 Animasyon.Web\bin\Silverlight Uyg4 Animasyon.Web.dll
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg4 Animasyon\Silverlight Uyg4 Animasyon.Web\bin\Silverlight Uyg4 Animasyon.Web.pdb
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg4 Animasyon\Silverlight Uyg4 Animasyon.Web\obj\Debug\Silverlight Uyg4 Animasyon.Web.csprojResolveAssemblyReference.cache
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg4 Animasyon\Silverlight Uyg4 Animasyon.Web\obj\Debug\Silverlight Uyg4 Animasyon.Web.dll
+D:\Öğrenci Dosyaları\56\GELİŞMİŞ\Silverlight Uyg4 Animasyon\Silverlight Uyg4 Animasyon.Web\obj\Debug\Silverlight Uyg4 Animasyon.Web.pdb
